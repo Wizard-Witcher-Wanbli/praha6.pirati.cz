@@ -1,7 +1,7 @@
 ---
 uid: michal.zachar
 name:                           Michal Zacahar  	# běžně používáné jméno
-fullname: 			Michal Zacahar  # jméno s tituly etc.
+fullname: 			Michal Zachar  # jméno s tituly etc.
 category:                       # kategorie: p6
 - praha6
 - mp
